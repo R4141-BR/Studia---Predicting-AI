@@ -21,6 +21,6 @@ An application that helps you study with 4 different functionalities by using Ma
 * git clone [https://github.com/R4141-BR/Studia---Predicting-AI.git](https://github.com/R4141-BR/Studia---Predicting-AI.git)
   cd Studia---Predicting-AI
 
-2.Then download the repositories who are in the requirements.txt
+2. Then download the repositories who are in the requirements.txt
 * pip install -r requirements.txt
 **Ensure you have Python 3.8 or Higher**
