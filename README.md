@@ -16,6 +16,11 @@ An application that helps you study with 4 different functionalities by using Ma
 * **[rich](https://rich.readthedocs.io/)** Used for the styling the terminal with : bars, spinners, progress bars, etc.
 * **[questionary](https://pypi.org/project/questionary/)** Used for the interactive menu selector.
 
+## How to use it
+* First you need to download it ( Download Tutorial is after this)
+* Then just double click the .exe file
+* Wait a bit and you can start to study !
+
 ## Download Tutorial
 ```bash
 python --version
@@ -25,4 +30,6 @@ python --version
 
 2. Then download the repositories who are in the requirements.txt
 * pip install -r requirements.txt
-* Ensure you have Python 3.8 or Higher**
+* Ensure you have Python 3.8 or Higher** ```
+
+
