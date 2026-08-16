@@ -17,7 +17,7 @@ An application that helps you study with 4 different functionalities by using Ma
 * **[questionary](https://pypi.org/project/questionary/)** Used for the interactive menu selector.
 
 ## How to use it
-* First you need to download it ( Download Tutorial is after this)
+* First you need to download it ( Download the .exe file in the releases)
 * Then just double click the .exe file
 * Wait a bit and you can start to study !
 
